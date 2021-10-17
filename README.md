@@ -3,7 +3,7 @@
 ## 简介
 
 一个基于 Web 的 V2ray 控制面板
-
+一个基于 Web 的 V2ray 控制面板
 ![1.png](1.png)
 
 ![2.png](2.png)
